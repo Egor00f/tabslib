@@ -1,5 +1,5 @@
 [package]
-name = "owner/packageName"
+name = "egor00f/tabslib"
 
 description = "description of package"
 
@@ -21,7 +21,8 @@ exclude = ["packageName.rbxl"]
 private = false
 
 [dependencies]
-
+stdlib = "egor00f/stdlib@0.1.3"
+tablelib = "egor00f/tablelib@0.2.0"
 
 [server-dependencies]
 

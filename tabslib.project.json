@@ -1,0 +1,13 @@
+{
+	"name": "tabslib tests",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Packages": {
+				"$path": "Packages"
+			},
+			"$path": "src"
+		}
+	}
+}
